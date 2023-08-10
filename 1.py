@@ -1,7 +1,7 @@
 from os import getenv
 print(getenv("TEST"))
 print("Hello, World!")
-a = asdasdasdasd
+a = 30
 b = 5
 c = a + b
 d = "aviel"
