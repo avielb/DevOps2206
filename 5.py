@@ -12,7 +12,7 @@ elif is_age_above_twentyfour and b == 2.5:
     print("blabla2")
 else:
     print("balbla")
-hajdfhbjaksdf
+
 if len(my_list) > 0:
     print("I have items")
 else:
